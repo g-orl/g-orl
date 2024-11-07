@@ -3,7 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-giuseppe--orlando-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/giuseppe-orlando-b90a712b6/?originalSubdomain=fr)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-giuseppeanto-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/giuseppeanto)
 
-
 I'm a dedicated and ambitious AI researcher and software developer with a strong background in data science, computer engineering, and domain adaptation for medical imaging. Currently, I'm completing a double degree master's program in Data Science at **EURECOM** in France and **Politecnico di Torino** in Italy, where I'm delving deep into machine learning and artificial intelligence.  
 
 ## 🔬 Current Interests
@@ -27,8 +26,9 @@ Here are a few of the projects I’m proud to share:
 - **[OS161](https://github.com/g-orl/c2-os161)**: Built core system calls to support multiprocessing in OS161, including `execv` and `dup2`.
 
 ## 📫 Get in Touch
-- **GitHub**: [g-orl](https://github.com/g-orl)
-- **Email**: [orlando@eurecom.fr](mailto:orlando@eurecom.fr)
-- **LinkedIn**: Coming soon!
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-g--orl-blue?logo=github&style=for-the-badge)](https://github.com/g-orl/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-giuseppe--orlando-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/giuseppe-orlando-b90a712b6/?originalSubdomain=fr)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-giuseppeanto-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/giuseppeanto)
+[![Email Badge](https://img.shields.io/badge/Email-orlando@eurecom.fr-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:orlando@eurecom.fr)
 
 I'm always open to collaboration and discussions on AI, machine learning, and innovative software projects. Let’s connect and explore new ideas together!
